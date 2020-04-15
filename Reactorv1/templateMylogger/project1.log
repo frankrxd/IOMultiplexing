@@ -1,0 +1,111 @@
+2020-03-17 17:56:23,997 project1 [WARN] [TestMylogger.cc:test3:18] hello,warn,100
+2020-03-17 17:56:23,997 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 17:56:23,997 project1 [WARN] [TestMylogger.cc:test3:20] hello,info,hello
+2020-03-17 17:57:40,809 project1 [WARN] hello,warn,100
+2020-03-17 17:58:22,738 project1 [WARN] hello,warn,100
+2020-03-17 18:00:03,077 project1 [WARN] hello,warn,100
+2020-03-17 18:00:03,078 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:32,659 project1 [WARN] hello,warn,100
+2020-03-17 18:01:32,659 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:33,799 project1 [WARN] hello,warn,100
+2020-03-17 18:01:33,799 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:34,695 project1 [WARN] hello,warn,100
+2020-03-17 18:01:34,695 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:35,247 project1 [WARN] hello,warn,100
+2020-03-17 18:01:35,247 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:35,799 project1 [WARN] hello,warn,100
+2020-03-17 18:01:35,799 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:36,355 project1 [WARN] hello,warn,100
+2020-03-17 18:01:36,355 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:36,681 project1 [WARN] hello,warn,100
+2020-03-17 18:01:36,681 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:38,546 project1 [WARN] hello,warn,100
+2020-03-17 18:01:38,546 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:38,897 project1 [WARN] hello,warn,100
+2020-03-17 18:01:38,897 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:39,195 project1 [WARN] hello,warn,100
+2020-03-17 18:01:39,195 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:39,767 project1 [WARN] hello,warn,100
+2020-03-17 18:01:39,767 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:40,278 project1 [WARN] hello,warn,100
+2020-03-17 18:01:40,278 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:40,688 project1 [WARN] hello,warn,100
+2020-03-17 18:01:40,688 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:41,084 project1 [WARN] hello,warn,100
+2020-03-17 18:01:41,084 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:41,516 project1 [WARN] hello,warn,100
+2020-03-17 18:01:41,516 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:42,046 project1 [WARN] hello,warn,100
+2020-03-17 18:01:42,046 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:42,504 project1 [WARN] hello,warn,100
+2020-03-17 18:01:42,504 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:43,090 project1 [WARN] hello,warn,100
+2020-03-17 18:01:43,090 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:48,122 project1 [WARN] hello,warn,100
+2020-03-17 18:01:48,122 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:48,354 project1 [WARN] hello,warn,100
+2020-03-17 18:01:48,354 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:49,792 project1 [WARN] hello,warn,100
+2020-03-17 18:01:49,792 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:52,191 project1 [WARN] hello,warn,100
+2020-03-17 18:01:52,191 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:57,568 project1 [WARN] hello,warn,100
+2020-03-17 18:01:57,568 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:01:59,156 project1 [WARN] hello,warn,100
+2020-03-17 18:01:59,157 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:00,669 project1 [WARN] hello,warn,100
+2020-03-17 18:02:00,669 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:03,762 project1 [WARN] hello,warn,100
+2020-03-17 18:02:03,762 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:04,716 project1 [WARN] hello,warn,100
+2020-03-17 18:02:04,717 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:05,780 project1 [WARN] hello,warn,100
+2020-03-17 18:02:05,781 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:06,838 project1 [WARN] hello,warn,100
+2020-03-17 18:02:06,839 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:07,912 project1 [WARN] hello,warn,100
+2020-03-17 18:02:07,912 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:08,833 project1 [WARN] hello,warn,100
+2020-03-17 18:02:08,833 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:09,588 project1 [WARN] hello,warn,100
+2020-03-17 18:02:09,589 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:10,286 project1 [WARN] hello,warn,100
+2020-03-17 18:02:10,286 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:02:10,988 project1 [WARN] hello,warn,100
+2020-03-17 18:02:10,988 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:03:14,923 project1 [WARN] hello,warn,100
+2020-03-17 18:03:14,924 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:03:39,056 project1 [WARN] hello,warn,100
+2020-03-17 18:03:39,056 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:04:06,165 project1 [WARN] hello,warn,100
+2020-03-17 18:04:06,166 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:04:27,716 project1 [WARN] hello,warn,100
+2020-03-17 18:04:27,717 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:07:25,265 project1 [WARN] hello,warn,100
+2020-03-17 18:07:25,265 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:08:21,720 project1 [WARN] hello,warn,100
+2020-03-17 18:08:21,720 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:09:12,876 project1 [WARN] hello,warn,100
+2020-03-17 18:09:12,876 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:57:57,082 project1 [WARN] hello,warn,100
+2020-03-17 18:57:57,082 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 18:58:17,764 project1 [WARN] hello,warn,100
+2020-03-17 18:58:17,764 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 19:00:26,592 project1 [WARN] hello,warn,100
+2020-03-17 19:00:26,592 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 19:01:57,087 project1 [WARN] hello,warn,100
+2020-03-17 19:01:57,087 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 19:11:00,227 project1 [WARN] hello,warn,100
+2020-03-17 19:11:00,227 project1 [WARN] [TestMylogger.cc:test3:19] hello,error,200
+2020-03-17 19:11:26,741 project1 [WARN] hello,warn,100
+2020-03-17 19:11:26,741 project1 [WARN] [TestMylogger.cc|test3|19] hello,error,200
+2020-03-17 19:11:47,186 project1 [WARN] hello,warn,100
+2020-03-17 19:11:47,186 project1 [WARN] [TestMylogger.cc | test3 | 19] hello,error,200
+2020-03-17 19:14:33,201 project1 [WARN] hello,warn,100
+2020-03-17 19:14:33,201 project1 [WARN] hello,error,200
+2020-03-17 19:15:06,228 project1 [WARN] hello,warn,100
+2020-03-17 19:15:06,229 project1 [WARN] hello,error,200
+2020-03-17 19:15:39,745 project1 [WARN] hello,warn,100
+2020-03-17 19:15:39,745 project1 [ERROR] hello,error,200
+2020-03-17 19:17:22,840 project1 [WARN] hello,warn,100
+2020-03-17 19:17:22,840 project1 [ERROR] hello,error,200
